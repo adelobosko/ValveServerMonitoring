@@ -191,7 +191,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "MonitoringForm";
             this.Text = "MonitoringForm";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Load += new System.EventHandler(this.MonitoringForm_Load);
             this.mainSplitContainer.Panel1.ResumeLayout(false);
             this.mainSplitContainer.Panel1.PerformLayout();
             this.mainSplitContainer.Panel2.ResumeLayout(false);
